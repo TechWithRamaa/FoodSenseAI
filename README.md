@@ -14,7 +14,7 @@ Data Handling and Preparation:
 
 Model Architecture:
 * Employs Convolutional Neural Networks (CNNs) for feature extraction from food images.
-* Integrates pre-trained models like ResNet50 and InceptionResNetV2 through transfer learning to leverage learned features, enhancing classification accuracy.
+* Integrates pre-trained model InceptionResNetV2 through transfer learning to leverage learned features, enhancing classification accuracy.
 
 Optimization and Training:
 * Uses Stochastic Gradient Descent (SGD) and other advanced optimizers for effective learning.
