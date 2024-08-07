@@ -18,7 +18,7 @@ Model Architecture:
 
 Optimization and Training:
 * Uses Stochastic Gradient Descent (SGD) and other advanced optimizers for effective learning.
-* Implements callbacks such as ReduceLROnPlateau, EarlyStopping, and ModelCheckpoint to manage learning rates, prevent overfitting, and save the best model versions.
+* Implements callbacks to manage learning rates, prevent overfitting, and save the best model versions.
 
 Visualization and Analysis:
 * Employs Matplotlib and Seaborn for visualizing data distributions, model performance, and training metrics.
