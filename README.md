@@ -6,7 +6,7 @@
 - Dataset from https://www.kaggle.com/datasets/vermaavi/food11/data
 - Built while learning from https://www.coursera.org/projects/transfer-learning-food-classification
 
-- Skills -> Python | Tensorflow | Keras | CNN | Transfer Learning | PreTrained Models
+- Skills -> Computer Vision | Image Classification | Python | Tensorflow | Keras | CNN | Transfer Learning | PreTrained Models
 
 Data Handling and Preparation:
 * Utilizes Pandas and NumPy for efficient data manipulation
