@@ -1,5 +1,4 @@
 # FoodSenseAI
-Harnessing deep learning, convolutional neural networks, and transfer learning to classify and analyze food across 11 diverse categories
 
 FoodSenseAI processes a dataset containing 16,643 food images grouped into 11 categories, such as Bread, Dairy Product, Dessert, Egg, Fried Food, Meat, Noodles/Pasta, Rice, Seafood, Soup, and Vegetable/Fruit
 The project is built upon the principles of deep learning and leverages advanced techniques and tools to achieve high accuracy and performance
