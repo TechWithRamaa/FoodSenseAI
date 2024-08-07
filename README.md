@@ -4,6 +4,8 @@ Harnessing deep learning, convolutional neural networks, and transfer learning t
 FoodSenseAI processes a dataset containing 16,643 food images grouped into 11 categories, such as Bread, Dairy Product, Dessert, Egg, Fried Food, Meat, Noodles/Pasta, Rice, Seafood, Soup, and Vegetable/Fruit
 The project is built upon the principles of deep learning and leverages advanced techniques and tools to achieve high accuracy and performance
 
+Dataset - https://www.kaggle.com/datasets/vermaavi/food11/data
+
 Skills - Python | Tensorflow | Keras | CNN | Transfer Learning | PreTrained Models
 
 Built while learning from https://www.coursera.org/projects/transfer-learning-food-classification
@@ -22,4 +24,3 @@ Optimization and Training:
 
 Visualization and Analysis:
 * Employs Matplotlib and Seaborn for visualizing data distributions, model performance, and training metrics
-* plot_model from Keras provides visual representations of the model architecture for better understanding
