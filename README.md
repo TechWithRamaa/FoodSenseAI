@@ -1,12 +1,12 @@
 # FoodSenseAI
 
-FoodSenseAI processes a dataset containing 16,643 food images grouped into 11 categories, such as Bread, Dairy Product, Dessert, Egg, Fried Food, Meat, Noodles/Pasta, Rice, Seafood, Soup, and Vegetable/Fruit
-The project is built upon the principles of deep learning and leverages advanced techniques and tools to achieve high accuracy and performance
+- FoodSenseAI processes a dataset containing 16,643 food images grouped into 11 categories, such as Bread, Dairy Product, Dessert, Egg, Fried Food, Meat, Noodles/Pasta, Rice, Seafood, Soup, and Vegetable/Fruit
+- The project is built upon the principles of deep learning and leverages advanced techniques and tools to achieve high accuracy and performance
 
 - Dataset from https://www.kaggle.com/datasets/vermaavi/food11/data
 - Built while learning from https://www.coursera.org/projects/transfer-learning-food-classification
 
-Skills - Python | Tensorflow | Keras | CNN | Transfer Learning | PreTrained Models
+- Skills -> Python | Tensorflow | Keras | CNN | Transfer Learning | PreTrained Models
 
 Data Handling and Preparation:
 * Utilizes Pandas and NumPy for efficient data manipulation
