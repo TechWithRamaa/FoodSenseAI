@@ -1,7 +1,6 @@
 # FoodSenseAI
 
-- FoodSenseAI processes and designed to classify a dataset containing 16,643 food images grouped into 11 categories
-- The project is built upon the principles of deep learning and leverages advanced techniques and tools to achieve high accuracy and performance
+- The project is built upon the principles of deep learning and leverages advanced techniques to classify a dataset containing 16,643 food images grouped into 11 categories
 
 - Dataset from https://www.kaggle.com/datasets/vermaavi/food11/data
 - Built while learning from https://www.coursera.org/projects/transfer-learning-food-classification
