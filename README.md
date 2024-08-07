@@ -6,7 +6,7 @@ The project is built upon the principles of deep learning and leverages advanced
 
 Skills - Python | Tensorflow | Keras | CNN | Transfer Learning | PreTrained Models
 
-Built while learning https://www.coursera.org/projects/transfer-learning-food-classification
+Built while learning from https://www.coursera.org/projects/transfer-learning-food-classification
 
 Data Handling and Preparation:
 * Utilizes Pandas and NumPy for efficient data manipulation.
