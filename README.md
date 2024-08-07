@@ -3,7 +3,7 @@
 FoodSenseAI processes a dataset containing 16,643 food images grouped into 11 categories, such as Bread, Dairy Product, Dessert, Egg, Fried Food, Meat, Noodles/Pasta, Rice, Seafood, Soup, and Vegetable/Fruit
 The project is built upon the principles of deep learning and leverages advanced techniques and tools to achieve high accuracy and performance
 
-Dataset - https://www.kaggle.com/datasets/vermaavi/food11/data
+Dataset from https://www.kaggle.com/datasets/vermaavi/food11/data
 
 Skills - Python | Tensorflow | Keras | CNN | Transfer Learning | PreTrained Models
 
