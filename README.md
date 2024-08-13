@@ -6,6 +6,7 @@
 - Built while learning from https://www.coursera.org/projects/transfer-learning-food-classification
 
 - Skills -> Computer Vision | Image Classification | Python | Tensorflow | Keras | CNN | Transfer Learning | PreTrained Models
+- Implementation -> https://github.com/TechWithRamaa/FoodSenseAI/blob/main/food_sense_ai.ipynb
 
 Data Handling and Preparation:
 * Utilizes Pandas and NumPy for efficient data manipulation
