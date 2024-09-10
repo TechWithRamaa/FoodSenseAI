@@ -12,7 +12,7 @@
 * Utilizes Pandas and NumPy for efficient data manipulation
 * Real-time data augmentation is achieved using ImageDataGenerator to improve model generalization
 
-**Model Architecture:**
+# Model Architecture
 * Employs **Convolutional Neural Networks (CNNs) for feature extraction** from food images
 * Integrates **pre-trained model InceptionResNetV2** through **transfer learning** to leverage learned features, enhancing classification accuracy
 
