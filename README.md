@@ -2,11 +2,11 @@
 
 - The project is built upon the **principles of deep learning** and incorporates advanced techniques to **classify a dataset containing 16,643 food images grouped into 11 categories**
 
-- **Dataset** from https://www.kaggle.com/datasets/vermaavi/food11/data
-- Built while learning from https://www.coursera.org/projects/transfer-learning-food-classification
+- **Dataset** from [kaggle](https://www.kaggle.com/datasets/vermaavi/food11/data)
+- Built while learning from [coursera](https://www.coursera.org/projects/transfer-learning-food-classification)
 
 - **Skills** -> Computer Vision | Image Classification | Python | Tensorflow | Keras | CNN | Transfer Learning | PreTrained Models
-- **Implementation** -> https://github.com/TechWithRamaa/FoodSenseAI/blob/main/food_sense_ai.ipynb
+- **Implementation** -> [food_sense_ai.ipynb](https://github.com/TechWithRamaa/FoodSenseAI/blob/main/food_sense_ai.ipynb)
 
 **Data Handling and Preparation:**
 * Utilizes Pandas and NumPy for efficient data manipulation
